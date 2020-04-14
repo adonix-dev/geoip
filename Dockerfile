@@ -13,7 +13,7 @@ MAINTAINER Tom Callahan <tcallahan@controlscan.com>
 
 ### DOWNLOAD DATABASES
 
-ENV GEOIP_BASE_URL      https://download.db-ip.com/free/
+ENV GEOIP_BASE_URL      https://download.db-ip.com/free
 ENV GEOIP_CNTR_DB       dbip-country-lite-2020-04.mmdb.gz
 ENV GEOIP_CITY_DB       dbip-city-lite-2020-04.mmdb.gz
 ENV GEOIP_DB_DIR        /usr/share/GeoIP
